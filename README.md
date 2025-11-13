@@ -148,7 +148,10 @@ Capstone projects built from scratch:
 
 
 ![my journey](LIST OF DAYS DOING CHALLENGE.png)
-
+![Certificate of Completion](LIST OF DAYS DOING CHALLENGE.png)
+![Certificate of Completion](certificate.png.jpg)
+![Certificate of Completion](certificate.png.jpg)
+![Certificate of Completion](certificate.png.jpg)
 (LODDC 2.png)
 (LODDC 3.png)
 (LODDC 4.png)
