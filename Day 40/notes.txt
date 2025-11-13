@@ -1,0 +1,12 @@
+notes:
+
+1.This code is functional, if it's not it's mean that the APIs need some renewal because of token limit
+etc.. or in the future when the parameters has change or the way how we write the codes itself.
+
+you can find the environment variables on .env file there is our secrets
+
+
+I use my google account here on day 40: angelogabarda.scc@gmail.com to create new Sheety because I reached
+the monthly quota of Sheety that's makes my account APIs not functionable.
+rather than the google account: gelo.gabarda@gmail.com that I used on day 39
+

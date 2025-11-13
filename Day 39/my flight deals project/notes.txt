@@ -1,0 +1,7 @@
+notes:
+
+1.This code is functional, if it's not it's mean that the APIs need some renewal because of token limit
+etc.. or in the future when the parameters has change or the way how we write the codes itself.
+
+you can find the environment variables on .env file there is our secrets
+

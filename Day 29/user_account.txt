@@ -1,0 +1,4 @@
+facebook | angelo@gmail.com | 123
+google | bruno@gmail.com | abcd
+ | bruno@gmail.com | 
+Amazon | angelo@gmail.com | 12312

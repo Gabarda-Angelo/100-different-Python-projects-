@@ -1,0 +1,3 @@
+Flask==3.1.2        # latest as of Aug 19, 2025 :contentReference[oaicite:0]{index=0}
+Flask-SQLAlchemy==3.1.1  # still current :contentReference[oaicite:1]{index=1}
+SQLAlchemy==2.0.43    # latest as of Aug 11, 2025 :contentReference[oaicite:2]{index=2}

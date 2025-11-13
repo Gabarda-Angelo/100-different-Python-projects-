@@ -1,0 +1,22 @@
+[36856:14312:0902/181407.285:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[36856:14312:0902/181410.410:INFO:CONSOLE:1] "Test data already exists", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.445:INFO:CONSOLE:1] "Data initialization result: [object Object]", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.448:INFO:CONSOLE:1] "Users in DB: 24 [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.448:INFO:CONSOLE:1] "Classes in DB: 96", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.448:INFO:CONSOLE:1] "Bookings in DB: 0 ", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.448:INFO:CONSOLE:1] "Database initialized! Available commands:", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.449:INFO:CONSOLE:1] "  await window.db.getAll("users")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.449:INFO:CONSOLE:1] "  await window.db.getAll("classes")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.449:INFO:CONSOLE:1] "  await window.db.getAll("bookings")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.449:INFO:CONSOLE:1] "  await window.testData.resetAllData() - Reset all data", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/181410.768:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://appbrewery.github.io/gym/login/ (0)
+[36856:14312:0902/181411.224:INFO:CONSOLE:1] "Loading...", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:17216:0902/181414.630:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[36856:17216:0902/181439.440:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[36856:17216:0902/181534.517:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[36856:17216:0902/181713.486:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[36856:17216:0902/182050.949:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+[36856:14312:0902/182623.445:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://appbrewery.github.io/gym/login/ (0)
+[36856:14312:0902/182629.920:INFO:CONSOLE:1] "Loading...", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/182630.898:INFO:CONSOLE:1] "Login failed Error: Network request failed. Please try again.", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[36856:14312:0902/182632.919:INFO:CONSOLE:1] "Loading...", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
