@@ -1,6 +1,6 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 
-![Certificate of Completion](certificate.png)
+![Certificate of Completion](certificate.png.jpg)
 
 ## Overview
 This repository documents my **100-day journey** through **Dr. Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp"** — the highest-rated Python course on Udemy.
