@@ -147,13 +147,16 @@ Capstone projects built from scratch:
 | 100 | **Earnings Prediction** | Regression |
 
 
-![my journey](LIST OF DAYS DOING CHALLENGE.png)
-![Certificate of Completion](LIST OF DAYS DOING CHALLENGE.png)
-![Certificate of Completion](certificate.png.jpg)
-![Certificate of Completion](certificate.png.jpg)
-![Certificate of Completion](certificate.png.jpg)
-(LODDC 2.png)
-(LODDC 3.png)
-(LODDC 4.png)
+## My 100-Day Journey
 
-(Syllabus+for+100+Days+of+Python.pdf)
+![My Coding Journey](LIST%20OF%20DAYS%20DOING%20CHALLENGE.png)
+
+---
+
+## Official Syllabus
+
+![Syllabus Page 1](LODDC%202.png)
+![Syllabus Page 2](LODDC%203.png)
+![Syllabus Page 3](LODDC%204.png)
+
+[Download Full Syllabus (PDF)](Syllabus+for+100+Days+of+Python.pdf)
